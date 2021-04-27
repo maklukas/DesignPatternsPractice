@@ -3,6 +3,7 @@ package prototype.strategy;
 
 import org.junit.Assert;
 import org.junit.Test;
+import strategy.*;
 
 public class CustomerTestSuite {
 

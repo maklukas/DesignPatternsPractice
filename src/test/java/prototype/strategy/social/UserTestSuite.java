@@ -2,6 +2,7 @@ package prototype.strategy.social;
 
 import org.junit.Assert;
 import org.junit.Test;
+import strategy.social.*;
 
 public class UserTestSuite {
 
